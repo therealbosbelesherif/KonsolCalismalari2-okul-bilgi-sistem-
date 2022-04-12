@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KonsolCalismalari2", "KonsolCalismalari2\KonsolCalismalari2.csproj", "{701B2C21-3ABC-4462-BE82-4D04FE017B06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{701B2C21-3ABC-4462-BE82-4D04FE017B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701B2C21-3ABC-4462-BE82-4D04FE017B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701B2C21-3ABC-4462-BE82-4D04FE017B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701B2C21-3ABC-4462-BE82-4D04FE017B06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B392460-8B6E-42AA-9A65-F6948755812A}
+	EndGlobalSection
+EndGlobal
